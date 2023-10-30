@@ -88,14 +88,14 @@
           "type": "select",
           "settings": {
             "collection-title": "",
-            "collection": ""
+            "collection": "test2"
           }
         },
         "b169c483-46d1-4f1d-9f66-2dda68134a50": {
           "type": "select",
           "settings": {
             "collection-title": "",
-            "collection": ""
+            "collection": "test2-1"
           }
         }
       },
